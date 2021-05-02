@@ -16,7 +16,7 @@ namespace Unity.FPS.Gameplay
         {
             if (evt.Pickup.GetComponent<TreasurePickup>() != null)
             {
-                CompleteObjective(string.Empty, "1", "Objective complete : " + "lofasz");
+                CompleteObjective(string.Empty, "1", "Objective complete : " + "Treasure");
             }
         }
 
